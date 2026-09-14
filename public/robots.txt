@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /auth
+Disallow: /profile
+Disallow: /transactions
+Disallow: /withdraw
+Disallow: /receipt/
+Disallow: /donate/success
+Disallow: /reset-password
+Disallow: /forgot-password
+
+Sitemap: https://new-klika.lovable.app/sitemap.xml

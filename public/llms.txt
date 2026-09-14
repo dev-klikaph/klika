@@ -1,0 +1,20 @@
+# klika.ph
+
+> Donate to verified Filipino causes, earn KliKa Points, and redeem real rewards. A mobile-first donation and rewards platform.
+
+klika.ph connects donors, fundraisers, and verified beneficiary organizations across the Philippines. Donors earn points for every peso given, fundraisers earn a share for referred donations, and beneficiaries receive transparent allocations.
+
+## Pages
+
+- [Home](/): Landing page with how it works, rewards, and FAQ.
+- [Discover causes](/campaigns): Browse verified, active campaigns by category.
+- [Browse campaigns](/campaigns): All active and recent campaigns.
+- [Beneficiaries](/beneficiaries): Verified NGOs and partner organizations.
+- [Leaderboard](/leaderboard): Top donors and fundraisers.
+- [Rewards](/rewards): Vouchers, merch, and partner perks redeemable with KliKa Points.
+- [Help](/help): Guides and answers about donating, points, and payouts.
+- [Join as fundraiser](/join): Sign up to refer donations and earn a share.
+
+## Optional
+
+- [Sign in](/auth): Account access for donors and fundraisers.
